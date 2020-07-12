@@ -1,0 +1,4 @@
+[{"name": "Nishesh", "payment_left": 7000, "roll": 1, "course_complete": true},
+ {"name": "Barsha", "payment_left": 5000, "roll": 2, "course_complete": false},
+ {"name": "Prishma", "payment_left": 10000, "roll": 3, "course_complete": true},
+ {"name": "Raman", "payment_left": 3000, "roll": 4, "course_complete": false}]
